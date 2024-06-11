@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2fcbfb7dc3668610c9bcbe2bb0013105</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_ehd_snpng_product_name">
+    <x_snc_ehd_snpng_product_name action="INSERT_OR_UPDATE">
+        <sys_created_by>earl.duque</sys_created_by>
+        <sys_created_on>2024-06-03 15:54:11</sys_created_on>
+        <sys_id>2fcbfb7dc3668610c9bcbe2bb0013105</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>earl.duque</sys_updated_by>
+        <sys_updated_on>2024-06-03 15:54:11</sys_updated_on>
+        <type>buzzword</type>
+        <word>Employee</word>
+    </x_snc_ehd_snpng_product_name>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>earl.duque</sys_created_by>
+        <sys_created_on>2024-06-11 22:11:57</sys_created_on>
+        <sys_id>9ffedee4933e4210b653ffbd1dba108a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee</sys_name>
+        <sys_package display_value="ServiceNow Product Name Generator" source="x_snc_ehd_snpng">6baaa24293d68e50b653ffbd1dba109c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Product Name Generator">6baaa24293d68e50b653ffbd1dba109c</sys_scope>
+        <sys_update_name>sys_metadata_link_9ffedee4933e4210b653ffbd1dba108a</sys_update_name>
+        <sys_updated_by>earl.duque</sys_updated_by>
+        <sys_updated_on>2024-06-11 22:11:57</sys_updated_on>
+        <tablename>x_snc_ehd_snpng_product_name</tablename>
+    </sys_metadata_link>
+</record_update>

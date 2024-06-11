@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7d4b628293d68e50b653ffbd1dba1078" label="Product name" max_length="40" name="x_snc_ehd_snpng_product_name" type="collection">
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="buzzword" sequence="0" value="buzzword"/>
+                <element inactive_on_update="false" label="suffix" sequence="1" value="suffix"/>
+                <element inactive_on_update="false" label="ender" sequence="2" value="ender"/>
+            </choice>
+        </element>
+        <element display="true" label="Word" max_length="128" name="word" type="string"/>
+    </element>
+</database>

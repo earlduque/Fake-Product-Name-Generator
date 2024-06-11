@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1abb3b7dc3668610c9bcbe2bb00131d3" extends="sys_import_set_row" label="Imp Tmpl X Snc Ehd Snpng Product Name" max_length="40" name="u_imp_tmpl_x_snc_ehd_snpng_product_name" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Word" label="Word" max_length="128" name="u_word" type="string"/>
+    </element>
+</database>
